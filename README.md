@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Philipp-St
+- 👋 Hi, I’m Philipp-St
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, JS, CSS, SQL, PHP
 - 💞️ I’m looking to collaborate on Code
